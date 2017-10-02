@@ -13,12 +13,10 @@ end
 
 def greeting(greeting, name)
   return greeting, name
-  puts 
-  
-
 end
 
 def return_a_value
+  return "Nice"
 
 end
 
